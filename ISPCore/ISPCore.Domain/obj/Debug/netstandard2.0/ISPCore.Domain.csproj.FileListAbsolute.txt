@@ -1,0 +1,9 @@
+C:\Projects\ISPCore\ISPCore.Domain\bin\Debug\netstandard2.0\ISPCore.Domain.deps.json
+C:\Projects\ISPCore\ISPCore.Domain\bin\Debug\netstandard2.0\ISPCore.Domain.dll
+C:\Projects\ISPCore\ISPCore.Domain\bin\Debug\netstandard2.0\ISPCore.Domain.pdb
+C:\Projects\ISPCore\ISPCore.Domain\obj\Debug\netstandard2.0\ISPCore.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ISPCore\ISPCore.Domain\obj\Debug\netstandard2.0\ISPCore.Domain.AssemblyInfoInputs.cache
+C:\Projects\ISPCore\ISPCore.Domain\obj\Debug\netstandard2.0\ISPCore.Domain.AssemblyInfo.cs
+C:\Projects\ISPCore\ISPCore.Domain\obj\Debug\netstandard2.0\ISPCore.Domain.dll
+C:\Projects\ISPCore\ISPCore.Domain\obj\Debug\netstandard2.0\ISPCore.Domain.pdb
+C:\Projects\ISPCore\ISPCore.Domain\obj\Debug\netstandard2.0\ISPCore.Domain.csprojAssemblyReference.cache

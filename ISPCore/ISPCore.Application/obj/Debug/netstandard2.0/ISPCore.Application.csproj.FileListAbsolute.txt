@@ -1,0 +1,12 @@
+C:\Projects\ISPCore\ISPCore.Application\bin\Debug\netstandard2.0\ISPCore.Application.deps.json
+C:\Projects\ISPCore\ISPCore.Application\bin\Debug\netstandard2.0\ISPCore.Application.dll
+C:\Projects\ISPCore\ISPCore.Application\bin\Debug\netstandard2.0\ISPCore.Application.pdb
+C:\Projects\ISPCore\ISPCore.Application\bin\Debug\netstandard2.0\ISPCore.Domain.dll
+C:\Projects\ISPCore\ISPCore.Application\bin\Debug\netstandard2.0\ISPCore.Domain.pdb
+C:\Projects\ISPCore\ISPCore.Application\obj\Debug\netstandard2.0\ISPCore.Application.csprojAssemblyReference.cache
+C:\Projects\ISPCore\ISPCore.Application\obj\Debug\netstandard2.0\ISPCore.Application.csproj.CoreCompileInputs.cache
+C:\Projects\ISPCore\ISPCore.Application\obj\Debug\netstandard2.0\ISPCore.Application.AssemblyInfoInputs.cache
+C:\Projects\ISPCore\ISPCore.Application\obj\Debug\netstandard2.0\ISPCore.Application.AssemblyInfo.cs
+C:\Projects\ISPCore\ISPCore.Application\obj\Debug\netstandard2.0\ISPCore.Application.csproj.CopyComplete
+C:\Projects\ISPCore\ISPCore.Application\obj\Debug\netstandard2.0\ISPCore.Application.dll
+C:\Projects\ISPCore\ISPCore.Application\obj\Debug\netstandard2.0\ISPCore.Application.pdb

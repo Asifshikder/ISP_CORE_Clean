@@ -1,0 +1,9 @@
+C:\Projects\ISPCore\ISPCore.Infrastructure\bin\Debug\netstandard2.0\ISPCore.Infrastructure.deps.json
+C:\Projects\ISPCore\ISPCore.Infrastructure\bin\Debug\netstandard2.0\ISPCore.Infrastructure.dll
+C:\Projects\ISPCore\ISPCore.Infrastructure\bin\Debug\netstandard2.0\ISPCore.Infrastructure.pdb
+C:\Projects\ISPCore\ISPCore.Infrastructure\obj\Debug\netstandard2.0\ISPCore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\ISPCore\ISPCore.Infrastructure\obj\Debug\netstandard2.0\ISPCore.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\ISPCore\ISPCore.Infrastructure\obj\Debug\netstandard2.0\ISPCore.Infrastructure.AssemblyInfo.cs
+C:\Projects\ISPCore\ISPCore.Infrastructure\obj\Debug\netstandard2.0\ISPCore.Infrastructure.dll
+C:\Projects\ISPCore\ISPCore.Infrastructure\obj\Debug\netstandard2.0\ISPCore.Infrastructure.pdb
+C:\Projects\ISPCore\ISPCore.Infrastructure\obj\Debug\netstandard2.0\ISPCore.Infrastructure.csprojAssemblyReference.cache

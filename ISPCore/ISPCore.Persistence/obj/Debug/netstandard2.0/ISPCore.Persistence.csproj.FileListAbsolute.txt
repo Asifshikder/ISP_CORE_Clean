@@ -1,0 +1,12 @@
+C:\Projects\ISPCore\ISPCore.Persistence\bin\Debug\netstandard2.0\ISPCore.Persistence.deps.json
+C:\Projects\ISPCore\ISPCore.Persistence\bin\Debug\netstandard2.0\ISPCore.Persistence.dll
+C:\Projects\ISPCore\ISPCore.Persistence\bin\Debug\netstandard2.0\ISPCore.Persistence.pdb
+C:\Projects\ISPCore\ISPCore.Persistence\bin\Debug\netstandard2.0\ISPCore.Domain.dll
+C:\Projects\ISPCore\ISPCore.Persistence\bin\Debug\netstandard2.0\ISPCore.Domain.pdb
+C:\Projects\ISPCore\ISPCore.Persistence\obj\Debug\netstandard2.0\ISPCore.Persistence.csprojAssemblyReference.cache
+C:\Projects\ISPCore\ISPCore.Persistence\obj\Debug\netstandard2.0\ISPCore.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\ISPCore\ISPCore.Persistence\obj\Debug\netstandard2.0\ISPCore.Persistence.AssemblyInfoInputs.cache
+C:\Projects\ISPCore\ISPCore.Persistence\obj\Debug\netstandard2.0\ISPCore.Persistence.AssemblyInfo.cs
+C:\Projects\ISPCore\ISPCore.Persistence\obj\Debug\netstandard2.0\ISPCore.Persistence.csproj.CopyComplete
+C:\Projects\ISPCore\ISPCore.Persistence\obj\Debug\netstandard2.0\ISPCore.Persistence.dll
+C:\Projects\ISPCore\ISPCore.Persistence\obj\Debug\netstandard2.0\ISPCore.Persistence.pdb
